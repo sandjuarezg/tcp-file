@@ -2,11 +2,10 @@
 
 ## Server
 ```scriptshell
-go run server/server.go [host] [post]
+go run server/main.go [host] [post]
 ```
 
 ## Client
-* Go
 ```scriptshell
-go run client/client.go [host] [post]
+go run client/main.go [host] [post]
 ```
